@@ -1,0 +1,68 @@
+.navbar{
+  background-color:white;
+  
+}
+.navbar{
+  background-color:pink;
+  height:10%;
+}
+  
+.hero{
+  background-image: url("/static/photo/photo1.jpeg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  margin-bottom: 40px;
+  padding-bottom: 100px;
+  text-aliign: center;
+}
+  
+  }
+.hero h1 {
+  color:pink;
+  font-size:125px;
+  text-align: center;
+
+}
+.hero h2{
+  color:pink;
+  text-align: center;
+  font-size:125px;
+}
+.layer2{
+  height:100%;
+  width:100%;
+  background-color:grey( 75, 0, 0, 0.3);
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items:center;
+  
+}
+.row {
+    padding-bottom: 100px;
+
+}
+
+
+.card {
+  
+  border:nonee;
+}
+
+.card-img-top {
+  height: 300px;
+}
+.navbar-brand{
+  width: 70px;
+}
+
+.card-img-top {
+  height: 300px;
+}
+video{
+  width:100%;
+  
+  }
+
